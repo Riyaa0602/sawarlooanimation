@@ -1,0 +1,13 @@
+body{
+    background: #354f52;
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        top: auto;
+        bottom: auto;
+        width: 50%;
+        height: 40%;
+      }
+      
